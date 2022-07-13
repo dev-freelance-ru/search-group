@@ -9,18 +9,46 @@
   ],
   "members": [
     [
-      {
-        "id": 1,
-        "telegramId": 123456,
-        "phone": 79999999999,
-        "username": "@hex",
-        "firstName": "vasya",
-        "lastName": "pupkin",
-        "bio": "18yo",
-        "additionalDatabaseIds": [
-          "wb"
-        ]
-      }
+      [
+  {
+    "id": 1,
+    "telegramId": 123456,
+    "phone": 79999999999,
+    "username": "@hex",
+    "firstName": "vasya",
+    "lastName": "pupkin",
+    "bio": "18yo",
+    "additionalDatabaseIds": 
+    [
+      "wb"
+    ]
+  },
+  {
+    "id": 2,
+    "telegramId": 123456,
+    "phone": 79999999999,
+    "username": "@bin",
+    "firstName": "petya",
+    "lastName": "vovkin",
+    "bio": "18yo",
+    "additionalDatabaseIds": 
+    [
+      "wb"
+    ]
+  },
+  {
+    "id": 3,
+    "telegramId": 123456,
+    "phone": 79999999999,
+    "username": "@oct",
+    "firstName": "igor",
+    "lastName": "brovkin",
+    "bio": "18yo",
+    "additionalDatabaseIds": 
+    [
+      "wb"
+    ]
+  }
     ]
   ],
   "exportLink": "string",
