@@ -1,0 +1,29 @@
+{
+  "group":
+  {
+  "id": 0,
+  "telegramId": 0,
+  "bio": "string",
+  "links": [
+    "string"
+  ],
+  "members": [
+    [
+      {
+        "id": 1,
+        "telegramId": 123456,
+        "phone": 79999999999,
+        "username": "@hex",
+        "firstName": "vasya",
+        "lastName": "pupkin",
+        "bio": "18yo",
+        "additionalDatabaseIds": [
+          "wb"
+        ]
+      }
+    ]
+  ],
+  "exportLink": "string",
+  "updatedAt": 0
+}
+}
