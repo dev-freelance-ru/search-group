@@ -8,8 +8,6 @@
     "string"
   ],
   "members": [
-    [
-      [
   {
     "id": 1,
     "telegramId": 123456,
@@ -49,7 +47,6 @@
       "wb"
     ]
   }
-    ]
   ],
   "exportLink": "string",
   "updatedAt": 0
